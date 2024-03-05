@@ -2,4 +2,6 @@
     <string name="app_name">Layout Example</string>
     <string name="text_username_home">Hai, Deny!</string>
     <string name="text_question_home">Apa yang ingin kamu makan hari ini?</string>
+    <string name="text_tittle_banner">MIE AYAM ENAK, MURAH DAN BERGIZI</string>
+    <string name="text_description_banner">Description Banner</string>
 </resources>
