@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="app_color_primary">#FC1C6B</color>
+    <color name="app_color_primary">#034efc</color>
     <color name="app_color_on_primary">#FFFFFF</color>
     <color name="app_color_primary_container">#FF9CBD</color>
     <color name="app_color_on_primary_container">#36404B</color>
